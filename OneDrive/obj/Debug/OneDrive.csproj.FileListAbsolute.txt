@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.pdb
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\Microsoft.Live.dll
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.Main.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.exe
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.pdb
